@@ -74,13 +74,13 @@ int min(node * BStree){
 	return BStree->data;
 }
 
-node * delete(node * BStree, int val){
-	if(BStree == NULL)
-		return NULL;
+//node * delete(node * BStree, int val){
+//	if(BStree == NULL)
+//		return NULL;
 	
-	if(BStree->data == val)
+//	if(BStree->data == val)
 		
-}
+//}
 
 int main(){
 
